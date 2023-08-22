@@ -1,0 +1,8 @@
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\bin\Debug\Task12_ScreenShot.exe.config
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\bin\Debug\Task12_ScreenShot.exe
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\bin\Debug\Task12_ScreenShot.pdb
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\obj\Debug\Task12_ScreenShot.csproj.AssemblyReference.cache
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\obj\Debug\Task12_ScreenShot.csproj.SuggestedBindingRedirects.cache
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\obj\Debug\Task12_ScreenShot.csproj.CoreCompileInputs.cache
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\obj\Debug\Task12_ScreenShot.exe
+D:\Basic_C#\Task12_ScreenShot\Task12_ScreenShot\obj\Debug\Task12_ScreenShot.pdb
